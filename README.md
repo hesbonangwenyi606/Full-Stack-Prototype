@@ -36,7 +36,6 @@ uvicorn main:app --reload --host 0.0.0.0 --port 8000
 - The SQLite database file `nissmart.db` will be created automatically.
 - API docs will be available at: `http://localhost:8000/docs`
 
----
 
 ## Running the Frontend
 
@@ -57,7 +56,6 @@ If your backend is not on `http://localhost:8000`, set:
 echo "VITE_API_BASE_URL=http://your-backend-host:port" > .env
 ```
 
----
 
 ## Key API Endpoints
 
@@ -73,7 +71,6 @@ Admin endpoints:
 - `GET /admin/summary` – Aggregate statistics for dashboards
 - `GET /admin/activity?limit=20` – Recent transaction feed
 
----
 
 ## Frontend Features
 
