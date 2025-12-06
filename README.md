@@ -11,7 +11,6 @@ Structure:
 
 ## Running the Backend
 ### 1. Create and activate a virtual environment (optional but recommended)
-
 ```bash
 cd backend
 python -m venv venv
