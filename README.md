@@ -35,7 +35,6 @@ uvicorn main:app --reload --host 0.0.0.0 --port 8000
 - The SQLite database file `nissmart.db` will be created automatically.
 - API docs will be available at: `http://localhost:8000/docs`
 
-
 ## Running the Frontend
 In a separate terminal:
 ```bash
