@@ -91,7 +91,6 @@ The admin view auto-refreshes every 5 seconds to make the demo more dynamic.
 
 ## Video Walkthrough (What to Record)
 When you are ready, start the backend and frontend, then record a 2–5 minute screen capture where you:
-
 1. Open the **Admin Dashboard** and show the system summary (likely zero at first).
 2. Switch to **User Dashboard**:
    - Create two users (e.g., Alice and Bob).
