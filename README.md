@@ -103,4 +103,4 @@ When you are ready, start the backend and frontend, then record a 2–5 minute s
    - Scroll through the recent activity feed.
 6. Briefly explain your architecture choices using `docs/architecture.md` as your talking points.
 
-This will sa
+This will 
