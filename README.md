@@ -1,7 +1,6 @@
 # Nissmart Full-Stack Assignment Prototype
 
 This repository contains a working prototype of the Nissmart micro-savings & payout platform.
-
 Structure:
 
 - `backend/` – FastAPI + SQLite transaction engine and ledger
