@@ -56,7 +56,6 @@ echo "VITE_API_BASE_URL=http://your-backend-host:port" > .env
 - `GET /transactions/{user_id}` – Get transaction history
 
 Admin endpoints:
-
 - `GET /admin/summary` – Aggregate statistics for dashboards
 - `GET /admin/activity?limit=20` – Recent transaction feed
 
