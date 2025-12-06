@@ -70,7 +70,6 @@ Admin endpoints:
 
 
 ## Frontend Features
-
 ### User Dashboard
 
 - Select or create a user
