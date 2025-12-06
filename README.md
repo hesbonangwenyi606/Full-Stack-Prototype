@@ -63,7 +63,6 @@ Admin endpoints:
 
 ## Frontend Features
 ### User Dashboard
-
 - Select or create a user
 - View real-time wallet balance
 - Perform deposits, transfers and withdrawals
