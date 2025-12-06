@@ -8,7 +8,6 @@ Structure:
 - `docs/flow_diagram.png` – High-level flow diagram
 
 > Note: You will still need to record the required 2–5 minute video walkthrough yourself using this running prototype.
-
 ## Running the Backend
 ### 1. Create and activate a virtual environment (optional but recommended)
 ```bash
