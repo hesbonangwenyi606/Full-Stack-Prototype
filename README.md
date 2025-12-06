@@ -58,7 +58,6 @@ echo "VITE_API_BASE_URL=http://your-backend-host:port" > .env
 
 
 ## Key API Endpoints
-
 - `POST /users` – Create a new user (and primary wallet)
 - `POST /deposit` – Simulate a deposit
 - `POST /transfer` – Internal transfer between users
