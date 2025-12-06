@@ -26,7 +26,6 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
-
 ### 3. Start the API server
 
 ```bash
