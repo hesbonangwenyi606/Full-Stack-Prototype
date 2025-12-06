@@ -101,4 +101,4 @@ When you are ready, start the backend and frontend, then record a 2–5 minute s
 5. Switch back to the **Admin Dashboard**:
    - Show that the summary totals and transaction table have updated.
    - Scroll through the recent activity feed.
-6. Briefly explain your architecture choices using `docs/architecture.md` as your talk
+6. Briefly explain your architecture choices using `docs/architecture.md` as your 
