@@ -41,7 +41,6 @@ cd frontend
 npm install
 npm run dev
 ```
-
 - The app will start on `http://localhost:5173`.
 
 If your backend is not on `http://localhost:8000`, set:
