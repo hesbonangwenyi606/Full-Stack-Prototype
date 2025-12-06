@@ -39,7 +39,6 @@ uvicorn main:app --reload --host 0.0.0.0 --port 8000
 
 ## Running the Frontend
 In a separate terminal:
-
 ```bash
 cd frontend
 npm install
