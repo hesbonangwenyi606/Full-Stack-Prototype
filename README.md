@@ -78,7 +78,6 @@ Admin endpoints:
 - View transaction history (with type, status, counterparty and timestamp)
 
 ### Admin Dashboard
-
 - System summary cards:
   - Total users
   - Total value in wallets
