@@ -6,7 +6,7 @@ Structure:
 - `docs/architecture.md` – Architecture and reasoning
 - `docs/flow_diagram.png` – High-level flow diagram
 
-> Note: You wecord the re
+> Note: You wecord th
 ## Running the Backend
 ### 1. Create and activate a virtual environment (optional but recommended)
 ```bash
