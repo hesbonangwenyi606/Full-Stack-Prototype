@@ -10,7 +10,6 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger("nissmart")
 
 Base.metadata.create_all(bind=engine)
-
 app = FastAPI(title="Nissmart Micro-Savings API")
 
 origins = [
