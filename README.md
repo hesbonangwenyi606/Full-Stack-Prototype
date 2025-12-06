@@ -2,7 +2,6 @@
 
 This repository contains a working prototype of the Nissmart micro-savings & payout platform.
 Structure:
-
 - `backend/` – FastAPI + SQLite transaction engine and ledger
 - `frontend/` – React (Vite) user and admin dashboards
 - `docs/architecture.md` – Architecture and reasoning
